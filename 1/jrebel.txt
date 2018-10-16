@@ -1,0 +1,4 @@
+默认反代 idea.lanyus.com, 运行起来后，http://127.0.0.1:8888/Zephyr就是激活地址了（激活地址复制到激活的窗口，而不是浏览器地址栏，见下图）, 邮箱随意填写（激活成功前不要关闭反向代理程序）
+
+
+如果使用上面的激活地址出现  “Incorrect license server group URL.Contact license sever administrator.”  错误，是由于授权地址增加了GUID检测造成的，可以尝试使用下面的激活地址：http://127.0.0.1:8888/88414687-3b91-4286-89ba-2dc813b107ce、http://127.0.0.1:8888/ff47a3ac-c11e-4cb2-836b-9b2b26101696、http://127.0.0.1:8888/11d221d1-5cf0-4557-b023-4b4adfeeb36a
